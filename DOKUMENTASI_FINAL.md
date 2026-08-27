@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/logo_camelio.png" width="180" alt="Logo Camelio">
+  <img src="file:///Users/prasdadestriyana/Flutter_Projects/smart_finance_app/assets/logo_camelio.png" width="200" alt="Logo Camelio">
   <br>
   <h1>DOKUMENTASI TEKNIS & REFERENSI KODE (SOURCE CODE)</h1>
   <h3>Aplikasi Camelio Finance - Versi 1.0.6</h3>
